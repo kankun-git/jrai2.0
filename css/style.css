@@ -1,0 +1,85 @@
+.searchparent {
+    position: relative;
+}
+
+.headerFont {
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+
+.inputbox {
+    width: 72%;
+    height: 40px;
+    margin: 10px 20px auto 20px;
+    border: solid #815d65 1px;
+    border-radius: 5px;
+    font-size: medium;
+}
+
+.outputbox {
+    width: 60%;
+    height: 30px;
+    margin: 0px 20px auto 20px;
+    padding: 9px 20px 0px 10px;
+    font-family: sans-serif;
+    font-size: medium;
+    border-bottom: solid #815d65 1px;
+    border-left: solid #815d65 1px;
+    border-right: solid #815d65 1px;
+    background-color: white;
+}
+.outputbox h4 {
+    margin-top: 0%;
+}
+
+.changelang {
+    width: 43px;
+    height: 43px;
+    border-radius: 10px;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    display: grid;
+    place-content: center;
+    background-color: #ec7141;
+}
+
+.expressbox {
+    position: relative;
+    margin: 5% 20px auto 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    border: solid #ec7141 2px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: justify;
+}
+.expressbox h4 {
+    font-family: sans-serif;
+}
+.expressbox p {
+    font-size: medium;
+    font-family: sans-serif;
+}
+.expressbox img {
+    top: 10%;
+    right: 5%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
+.expressbox li {
+    font-family: sans-serif;
+    left: 10%;
+    margin-right: 10%;
+}
+
+#gtimg {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.vanhoacontent {
+    font-size: x-small;
+}
